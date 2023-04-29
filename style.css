@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+}
+.jumbotron{
+background-image:
+url("https://r1.ilikewallpaper.net/ipad-pro-wallpapers/download/37917/Spiderman-hero-ipad-pro-wallpaper-ilikewallpaper_com.jpg");
+height: 600px;
+width: 100%;
+}
+h1{
+color: white;
+}
+p{
+color: white;
+}
+#cardt{
+color: black;
+}
+img{
+height: 480px;
+}
+#ovp{
+color: blue;
+}
